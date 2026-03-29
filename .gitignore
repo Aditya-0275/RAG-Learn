@@ -1,0 +1,30 @@
+# Environment
+.env
+.env.*
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+notes.txt
